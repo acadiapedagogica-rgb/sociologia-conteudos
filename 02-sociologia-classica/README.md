@@ -1,225 +1,183 @@
-# Modulo 2 - Sociologia Classica
+# Módulo 2 - Sociologia Clássica
 
-## Sobre este Modulo
-
-Este modulo explora os tres pilares fundamentais da Sociologia classica: Karl Marx, Emile Durkheim e Max Weber. Cada autor desenvolveu conceitos e metodos que formam a base da analise sociologica ate hoje.
+## Sobre este Módulo
+Este módulo explora os três pilares fundamentais da Sociologia clássica: Karl Marx, Émile Durkheim e Max Weber. Cada autor desenvolveu conceitos e métodos que formam a base da análise sociológica até hoje.
 
 ---
 
 ## 1. Karl Marx (1818-1883)
-
-###Biografia e Contexto
-
-Marx foi um filosofo, economista e revolucionario alemao. Viveu durante a Revoluc industrial e testemunhou as transformacoes radicais do capitalismo emergente.
+### Biografia e Contexto
+Marx foi um filósofo, economista e revolucionário alemão. Viveu durante a Revolução Industrial e testemunhou as transformações radicais do capitalismo emergente.
 
 ### Conceitos Principais
-
-#### Materialismo Historico
-
-A Historia humana e impulsionada pelas lutas materiais e economicas, e nao por ideias abstratas. A estrutura economica (infraestrutura) determina a superestrutura (direito, politica, religiao, cultura).
-
+#### Materialismo Histórico
+A História humana é impulsionada pelas lutas materiais e econômicas, e não por ideias abstratas. A estrutura econômica (infraestrutura) determina a superestrutura (direito, política, religião, cultura).
 ```
 INFRAESTRUTURA -> SUPERESTRUTURA
-(Meios de producao)  (Ideias, leis, cultura)
+(Meios de produção)  (Ideias, leis, cultura)
 ```
 
 #### Luta de Classes
+"A história de toda sociedade até hoje é a história da luta de classes."
+- **Burguesia**: classe dominante, dona dos meios de produção
+- **Proletariado**: classe trabalhadora, vende sua força de trabalho
 
-"A historia de toda sociedade ate hoje e a historia da luta de classes."
-
-- **Burguesia**: classe dominante, dona dos meios de producao
-- **Proletariado**: classe trabalhadora, vende sua forca de trabalho
-
-O conflito entre essas classes e o motor da mudanca social.
+O conflito entre essas classes é o motor da mudança social.
 
 #### Mais-valia
+A mais-valia é o valor produzido pelo trabalhador além do necessário para sua reprodução, e que é apropriado pelo capitalista como lucro.
+**Fórmula**: Valor da mercadoria = Salário + Mais-valia
 
-A mais-valia e o valor produzido pelo trabalhador alem do necessario para sua reproducao, e que e apropriado pelo capitalista como lucro.
-
-**Formula**: Valor da mercadoria = Salario + Mais-valia
-
-#### Alienacao
-
-O trabalhador se aliena em quatro dimensoes:
-1. **Do produto** do seu trabalho (nao lhe pertence)
-2. **Do processo** produtivo (nao controla como trabalha)
-3. **De si mesmo** (o trabalho e desumanizante)
-4. **Dos outros** trabalhadores (competicao e individualismo)
+#### Alienação
+O trabalhador se aliena em quatro dimensões:
+1. **Do produto** do seu trabalho (não lhe pertence)
+2. **Do processo** produtivo (não controla como trabalha)
+3. **De si mesmo** (o trabalho é desumanizante)
+4. **Dos outros** trabalhadores (competição e individualismo)
 
 #### Ideologia
-
-Conjunto de ideias que justificam e mantem a dominacao de classe, apresentando a ordem social existente como natural e inevitavel.
+Conjunto de ideias que justificam e mantêm a dominação de classe, apresentando a ordem social existente como natural e inevitável.
 
 ### Obras Principais
-
 - *O Manifesto do Partido Comunista* (1848) - com Engels
 - *O Capital* (1867)
-- *A Ideologia Alema* (1845) - com Engels
-- *Manuscritos Economico-Filosoficos* (1844)
+- *A Ideologia Alemã* (1845) - com Engels
+- *Manuscritos Econômico-Filosóficos* (1844)
 
 ---
 
-## 2. Emile Durkheim (1858-1917)
-
+## 2. Émile Durkheim (1858-1917)
 ### Biografia e Contexto
-
-Durkheim foi um sociologo frances, considerado o fundador da Sociologia como ciencia academica. Seu objetivo era estabelecer a Sociologia como disciplina cientifica autonoma.
+Durkheim foi um sociólogo francês, considerado o fundador da Sociologia como ciência acadêmica. Seu objetivo era estabelecer a Sociologia como disciplina científica autônoma.
 
 ### Conceitos Principais
-
 #### Fato Social
-
-Ja estudado no Modulo 1, o Fato Social possui tres caracteristicas:
-- **Exterioridade**: precede e existe independente do individuo
-- **Coercitividade**: impoe-se ao individuo com poder de forca
-- **Generalidade**: e comum ao grupo social
+Já estudado no Módulo 1, o Fato Social possui três características:
+- **Exterioridade**: precede e existe independente do indivíduo
+- **Coercitividade**: impõe-se ao indivíduo com poder de força
+- **Generalidade**: é comum ao grupo social
 
 #### Solidariedade Social
-
 Durkheim identifica dois tipos de solidariedade:
 
-| Tipo | Caracteristica | Sociedade | Direito |
-|------|---------------|-----------|----------|
-| **Mecanica** | Semelhanca entre individuos, consciencia coletiva forte | Tradicional, rural | Repressivo (punicao) |
-| **Organica** | Interdependencia, divisao do trabalho | Moderna, urbana | Restitutivo (reparacao) |
+| Tipo | Característica | Sociedade | Direito |
+|------|---------------|-----------|---------|
+| **Mecânica** | Semelhança entre indivíduos, consciência coletiva forte | Tradicional, rural | Repressivo (punição) |
+| **Orgânica** | Interdependência, divisão do trabalho | Moderna, urbana | Restitutivo (reparação) |
 
 #### Anomia
+Estado de ausência ou enfraquecimento das normas sociais. Ocorre quando as regras deixam de orientar os indivíduos, gerando desorganização social. Exemplos: crises econômicas, revoluções, transformações sociais rápidas.
 
-Estado de ausencia ou enfraquecimento das normas sociais. Ocorre quando as regras deixam de orientar os individuos, gerando desorganizacao social.
+#### Suicídio
+Em *O Suicídio* (1897), Durkheim demonstra que mesmo o ato mais individual - o suicídio - tem causas sociais. Tipos de suicídio:
+- **Egoísta**: falta de integração social (excesso de individualismo)
+- **Altruísta**: excessiva integração social (sacrifício pelo grupo)
+- **Anômico**: falta de regulação (crises, mudanças bruscas)
+- **Fatalista**: excessiva regulação (opressão total)
 
-Exemplos: crises economicas, revolucoes, transformacoes sociais rapidas.
-
-#### Suicidio
-
-Em *O Suicidio* (1897), Durkheim demonstra que mesmo o ato mais individual - o suicidio - tem causas sociais.
-
-Tipos de suicidio:
-- **Egoista**: falta de integracao social (excesso de individualismo)
-- **Altruista**: excessiva integracao social (sacrificio pelo grupo)
-- **Anomico**: falta de regulacao (crises, mudancas bruscas)
-- **Fatalista**: excessiva regulacao (opressao total)
-
-#### Educacao
-
-A educacao e um mecanismo de socializacao que transmite valores e normas da sociedade para as novas geracoes, garantindo a coesao social.
+#### Educação
+A educação é um mecanismo de socialização que transmite valores e normas da sociedade para as novas gerações, garantindo a coesão social.
 
 ### Obras Principais
-
-- *A Divisao do Trabalho Social* (1893)
-- *As Regras do Metodo Sociologico* (1895)
-- *O Suicidio* (1897)
+- *A Divisão do Trabalho Social* (1893)
+- *As Regras do Método Sociológico* (1895)
+- *O Suicídio* (1897)
 - *As Formas Elementares da Vida Religiosa* (1912)
 
 ---
 
 ## 3. Max Weber (1864-1920)
-
 ### Biografia e Contexto
-
-Weber foi um sociologo, economista e jurista alemao. Sua abordagem enfatiza a compreensao interpretativa (versteht) da acao social.
+Weber foi um sociólogo, economista e jurista alemão. Sua abordagem enfatiza a compreensão interpretativa (verstehen) da ação social.
 
 ### Conceitos Principais
+#### Ação Social
+Ação social é aquela que o indivíduo orienta em função do comportamento de outros. Weber propõe quatro tipos ideais de ação social:
+1. **Racional com relação a fins**: cálculo consciente de meios para atingir um objetivo
+2. **Racional com relação a valores**: ação motivada por convicção ética, religiosa ou estética
+3. **Tradicional**: guiada por hábitos e costumes enraizados
+4. **Afetiva**: movida por emoções e sentimentos
 
-#### Acao Social
-
-Acao social e aquela que o individuo orienta em funcao do comportamento de outros. Weber propoe quatro tipos ideais de acao social:
-
-1. **Racional com relacao a fins**: calculo consciente de meios para atingir um objetivo
-2. **Racional com relacao a valores**: acao motivada por conviccao etica, religiosa ou estetica
-3. **Tradicional**: guiada por habitos e costumes enraizados
-4. **Afetiva**: movida por emocoes e sentimentos
-
-#### Racionalizacao
-
-Processo historico pelo qual as acoes sociais sao cada vez mais orientadas por calculo e eficiencia racional, substituindo tradicoes e emocoes.
-
+#### Racionalização
+Processo histórico pelo qual as ações sociais são cada vez mais orientadas por cálculo e eficiência racional, substituindo tradições e emoções.
 ```
-TRADICAO -> RACIONALIDADE
-(Crencia, habito) (Calculo, eficiencia)
+TRADIÇÃO -> RACIONALIDADE
+(Crença, hábito)  (Cálculo, eficiência)
 ```
-
-Exemplo: substituicao do trabalho artesanal pela producao industrial em serie.
+Exemplo: substituição do trabalho artesanal pela produção industrial em série.
 
 #### Burocracia
-
-Weber ve a burocracia como a forma mais racional de organizacao social. Caracteristicas:
+Weber vê a burocracia como a forma mais racional de organização social. Características:
 - Hierarquia clara
 - Regras e regulamentos escritos
 - Impessoalidade
-- Especializacao tecnica
-- Selecao por merito
+- Especialização técnica
+- Seleção por mérito
 
-A burocracia e eficiente, mas pode gerar uma "gaiola de ferro" (desumanizacao).
+A burocracia é eficiente, mas pode gerar uma "gaiola de ferro" (desumanização).
 
-#### Etica Protestante e o Espirito do Capitalismo
+#### Ética Protestante e o Espírito do Capitalismo
+Weber argumenta que a ética calvinista (trabalho duro, poupança, racionalidade) ajudou a criar as condições culturais para o surgimento do capitalismo moderno.
 
-Weber argumenta que a etica calvinista (trabalho duro, poupanca, racionalidade) ajudou a criar as condicoes culturais para o surgimento do capitalismo moderno.
-
-#### Poder e Dominacao
-
-Weber distingue tres tipos de dominacao legitima:
+#### Poder e Dominação
+Weber distingue três tipos de dominação legítima:
 
 | Tipo | Base | Exemplo |
-|------|------|----------|
-| **Tradicional** | Costumes e tradicao | Monarquia hereditaria |
-| **Carismatica** | Qualidades excepcionais do lider | Lideres revolucionarios |
+|------|------|---------|
+| **Tradicional** | Costumes e tradição | Monarquia hereditária |
+| **Carismática** | Qualidades excepcionais do líder | Líderes revolucionários |
 | **Racional-legal** | Leis e regulamentos | Democracias modernas |
 
 ### Obras Principais
-
-- *A Etica Protestante e o Espirito do Capitalismo* (1905)
+- *A Ética Protestante e o Espírito do Capitalismo* (1905)
 - *Economia e Sociedade* (1922)
-- *O Politico e o Cientista* (1919)
+- *O Político e o Cientista* (1919)
 
 ---
 
-## 4. Compara os Tres Autores
+## 4. Comparação dos Três Autores
 
-| Questao | Marx | Durkheim | Weber |
+| Questão | Marx | Durkheim | Weber |
 |---------|------|----------|-------|
-| **Foco** | Conflito, economia | Coesao, ordem | Sentido, acao |
-| **Metodo** | Materialismo historico | Fato social | Verstehen |
-| **Capitalismo** | Sistema de exploracao | Anomia e transformacao | Racionalizacao |
-| **Mudanca** | Revolucao | Evolucao | Desencantamento |
-| **Ideia central** | Luta de classes | Solidariedade | Racionalizacao |
+| **Foco** | Conflito, economia | Coesão, ordem | Sentido, ação |
+| **Método** | Materialismo histórico | Fato social | Verstehen |
+| **Capitalismo** | Sistema de exploração | Anomia e transformação | Racionalização |
+| **Mudança** | Revolução | Evolução | Desencantamento |
+| **Ideia central** | Luta de classes | Solidariedade | Racionalização |
 
 ---
 
-## 5. Glossario do Modulo
-
-- **Alienacao**: Perda de controle e sentido sobre o proprio trabalho e vida (Marx)
-- **Anomia**: Ausencia ou enfraquecimento das normas sociais (Durkheim)
-- **Acao Social**: Acao orientada pelo comportamento de outros (Weber)
-- **Burocracia**: Organizacao racional baseada em regras e hierarquia (Weber)
-- **Consciencia Coletiva**: Conjunto de crencas e sentimentos comuns (Durkheim)
-- **Infraestrutura**: Base economica da sociedade (Marx)
-- **Mais-valia**: Valor nao remunerado do trabalho (Marx)
-- **Materialismo Historico**: Economia determina a estrutura social (Marx)
-- **Racionalizacao**: Processo de substituicao da tradicao pela razao (Weber)
-- **Solitariedade Mecanica/Organica**: Tipos de coesao social (Durkheim)
-- **Verstehen**: Compreensao interpretativa (Weber)
+## 5. Glossário do Módulo
+- **Alienação**: Perda de controle e sentido sobre o próprio trabalho e vida (Marx)
+- **Anomia**: Ausência ou enfraquecimento das normas sociais (Durkheim)
+- **Ação Social**: Ação orientada pelo comportamento de outros (Weber)
+- **Burocracia**: Organização racional baseada em regras e hierarquia (Weber)
+- **Consciência Coletiva**: Conjunto de crenças e sentimentos comuns (Durkheim)
+- **Infraestrutura**: Base econômica da sociedade (Marx)
+- **Mais-valia**: Valor não remunerado do trabalho (Marx)
+- **Materialismo Histórico**: Economia determina a estrutura social (Marx)
+- **Racionalização**: Processo de substituição da tradição pela razão (Weber)
+- **Solidariedade Mecânica/Orgânica**: Tipos de coesão social (Durkheim)
+- **Verstehen**: Compreensão interpretativa (Weber)
 
 ---
 
 ## 6. Para Refletir
-
-1. Quais conceitos de Marx ainda sao relevantes para analisar a sociedade contemporanea?
-2. Voces ja vivenciaram uma situacao de anomia social?
-3. A racionalizacao descrita por Weber pode ser observada no cotidiano das pessoas?
-4. Qual dos tres autores oferece a melhor ferramenta para compreender o mundo atual?
-
----
-
-## 7. Referencias
-
-- MARX, Karl; ENGELS, Friedrich. *O Manifesto Comunista*. Sao Paulo: Boitempo.
-- DURKHEIM, Emile. *As Regras do Metodo Sociologico*. Sao Paulo: Martins Fontes.
-- DURKHEIM, Emile. *O Suicidio*. Sao Paulo: Martins Fontes.
-- WEBER, Max. *A Etica Protestante e o Espirito do Capitalismo*. Sao Paulo: Companhia das Letras.
-- WEBER, Max. *Economia e Sociedade*. Brasilia: Editora UnB.
-- COHN, Gabriel. *Weber*. Sao Paulo: Abril Cultural.
+1. Quais conceitos de Marx ainda são relevantes para analisar a sociedade contemporânea?
+2. Vocês já vivenciaram uma situação de anomia social?
+3. A racionalização descrita por Weber pode ser observada no cotidiano das pessoas?
+4. Qual dos três autores oferece a melhor ferramenta para compreender o mundo atual?
 
 ---
 
-*Academia Pedagogica | Eixo II - Sociologia*
+## 7. Referências
+- MARX, Karl; ENGELS, Friedrich. *O Manifesto Comunista*. São Paulo: Boitempo.
+- DURKHEIM, Émile. *As Regras do Método Sociológico*. São Paulo: Martins Fontes.
+- DURKHEIM, Émile. *O Suicídio*. São Paulo: Martins Fontes.
+- WEBER, Max. *A Ética Protestante e o Espírito do Capitalismo*. São Paulo: Companhia das Letras.
+- WEBER, Max. *Economia e Sociedade*. Brasília: Editora UnB.
+- COHN, Gabriel. *Weber*. São Paulo: Abril Cultural.
+
+---
+*Academia Pedagógica | Eixo II - Sociologia*
 *Professor Felipe de Luca*
