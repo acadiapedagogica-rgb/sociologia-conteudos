@@ -1,129 +1,115 @@
-# Sociologia - Conteudos
+# Sociologia - Conteúdos
 
-## Academia Pedagogica | Eixo II
-
-> *"A sociedade e um produto humano, e o homem e um produto social."* - Peter Berger
+## Academia Pedagógica | Eixo II
+*"A sociedade é um produto humano, e o homem é um produto social."* - Peter Berger
 
 ---
 
-## Sobre este Repositorio
-
-Repositorio de conteudos de Sociologia para ensino medio e formacao docente. Organizado em modulos tematicos com resumos de teorias, analises de fenomenos sociais, fichamentos de autores e atividades para sala de aula.
-
+## Sobre este Repositório
+Repositório de conteúdos de Sociologia para ensino médio e formação docente. Organizado em módulos temáticos com resumos de teorias, análises de fenômenos sociais, fichamentos de autores e atividades para sala de aula.
 [**Voltar ao portal principal**](https://github.com/acadiapedagogica-rgb/acadiapedagogica-rgb.github.io)
 
 ---
 
-## Modulo 1 - Introducao a Sociologia
-
-- O que e a Sociologia? Objeto e metodo
-- Imaginacao Sociologica (C. Wright Mills)
-- Senso Comum vs Conhecimento Cientifico
+## Módulo 1 - Introdução à Sociologia
+- O que é a Sociologia? Objeto e método
+- Imaginação Sociológica (C. Wright Mills)
+- Senso Comum vs Conhecimento Científico
 - Fato Social (Durkheim)
-- Acao Social (Weber)
+- Ação Social (Weber)
 - Luta de Classes (Marx)
 
 ---
 
-## Modulo 2 - Sociologia Classica
-
+## Módulo 2 - Sociologia Clássica
 ### Karl Marx
-- Materialismo Historico e Dialico
-- Mais-Valia, Alienacao, Ideologia
-- Luta de Classes e Revolucao
-- O Capital: analise do capitalismo
-
-### Emile Durkheim
-- Fato Social e Coacao
-- Solidariedade Mecanica e Organica
+- Materialismo Histórico e Dialético
+- Mais-Valia, Alienação, Ideologia
+- Luta de Classes e Revolução
+- O Capital: análise do capitalismo
+### Émile Durkheim
+- Fato Social e Coação
+- Solidariedade Mecânica e Orgânica
 - Anomia e Anomia Social
-- Suicidio: estudo sociologico clasico
-- Educacao como fato social
-
+- Suicídio: estudo sociológico clássico
+- Educação como fato social
 ### Max Weber
-- Acao Social e Tipos Ideais
-- Racionalizacao e Desencantamento
+- Ação Social e Tipos Ideais
+- Racionalização e Desencantamento
 - Burocracia e Poder
-- Etica Protestante e Espirito do Capitalismo
-- Poder, Dominacao e Autoridade
+- Ética Protestante e Espírito do Capitalismo
+- Poder, Dominação e Autoridade
 
 ---
 
-## Modulo 3 - Estrutura Social e Classes
-
-- Estratificacao Social: Classes, Estamentos, Castas
+## Módulo 3 - Estrutura Social e Classes
+- Estratificação Social: Classes, Estamentos, Castas
 - Mobilidade Social
 - Desigualdade Social no Brasil
 - Racismo Estrutural e Neocolonialismo
-- Genero e Feminismo
+- Gênero e Feminismo
 - Habitus e Campo (Bourdieu)
-- Capital Cultural, Social e Simbolico
+- Capital Cultural, Social e Simbólico
 
 ---
 
-## Modulo 4 - Cultura, Identidade e Diversidade
-
-- Cultura: definicoes e dimensoes
+## Módulo 4 - Cultura, Identidade e Diversidade
+- Cultura: definições e dimensões
 - Etnocentrismo, Relativismo Cultural, Multiculturalismo
 - Identidade e Alteridade
 - Diversidade Cultural Brasileira
-- Cultura Popular e Industria Cultural
-- Movimentos Culturais Contemporaneos
-- Identidade de Genero e Sexualidade
+- Cultura Popular e Indústria Cultural
+- Movimentos Culturais Contemporâneos
+- Identidade de Gênero e Sexualidade
 
 ---
 
-## Modulo 5 - Poder, Estado e Ideologia
-
-- Poder e Dominacao
+## Módulo 5 - Poder, Estado e Ideologia
+- Poder e Dominação
 - Estado: conceitos e teorias
 - Democracia e Cidadania
 - Ideologia: Marx, Gramsci, Althusser
 - Hegemonia Cultural (Gramsci)
-- Industria Cultural (Adorno e Horkheimer)
+- Indústria Cultural (Adorno e Horkheimer)
 - Biopoder e Sociedade Disciplinar (Foucault)
 
 ---
 
-## Modulo 6 - Movimentos Sociais e Transformacao
-
-- O que e um Movimento Social?
-- Movimentos Operarios e Sindicais
+## Módulo 6 - Movimentos Sociais e Transformação
+- O que é um Movimento Social?
+- Movimentos Operários e Sindicais
 - Movimentos por Direitos Civis
 - Movimentos Feministas e LGBTQI+
 - Movimentos Ambientais
-- Movimentos Indigenas e Quilombolas
-- Primavera Arabe e Protestos Contemporaneos
+- Movimentos Indígenas e Quilombolas
+- Primavera Árabe e Protestos Contemporâneos
 - Ativismo Digital e Redes Sociais
 
 ---
 
-## Modulo 7 - Sociologia da Educacao
-
-- Educacao e Reproducao Social (Bourdieu e Passeron)
-- Curriculo Oculto e Socializacao Escolar
-- Teoria da Resistencia (Willis, Giroux)
-- Educacao Popular (Paulo Freire)
+## Módulo 7 - Sociologia da Educação
+- Educação e Reprodução Social (Bourdieu e Passeron)
+- Currículo Oculto e Socialização Escolar
+- Teoria da Resistência (Willis, Giroux)
+- Educação Popular (Paulo Freire)
 - Desigualdades Educacionais no Brasil
-- Escola, Cultura e Violencia
-- Sociologia da Infancia e Juventude
+- Escola, Cultura e Violência
+- Sociologia da Infância e Juventude
 
 ---
 
-## Modulo 8 - Sociologia Contemporanea
-
-- Globalizacao e Sociedade-Mundo
+## Módulo 8 - Sociologia Contemporânea
+- Globalização e Sociedade-Mundo
 - Sociedade em Rede (Castells)
 - Risco e Modernidade Reflexiva (Beck, Giddens)
-- Bauman: Modernidade Liquida
+- Bauman: Modernidade Líquida
 - Antropoceno e Sociologia Ambiental
-- Teoria Critica: Frankfurt e Desdobramentos
-- Butler: Genero como Performace
+- Teoria Crítica: Frankfurt e Desdobramentos
+- Butler: Gênero como Performance
 
 ---
 
 ## Estrutura de Pastas
-
 ```
 sociologia-conteudos/
 ├── 01-introducao-sociologia/
@@ -141,13 +127,10 @@ sociologia-conteudos/
 
 ---
 
-## Conexoes com outros Eixos
-
-- **Filosofia**: Etica em Marx, Contratualismo em Hobbes/Locke/Rousseau, Racionalismo em Weber
+## Conexões com outros Eixos
+- **Filosofia**: Ética em Marx, Contratualismo em Hobbes/Locke/Rousseau, Racionalismo em Weber
 - **Teoria dos Sistemas**: Sistema Social (Luhmann), Estrutura vs Agente (Giddens)
-
 [Explorar Filosofia](https://github.com/acadiapedagogica-rgb/filosofia-conteudos) | [Explorar Teoria dos Sistemas](https://github.com/acadiapedagogica-rgb/teoria-de-sistemas)
 
 ---
-
-**Licenca**: CC BY-SA 4.0 | **Autor**: Felipe de Luca
+**Licença**: CC BY-SA 4.0 | **Autor**: Felipe de Luca
