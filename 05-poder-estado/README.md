@@ -166,5 +166,5 @@ Hegemonia é a dominação de uma classe sobre outras não apenas pela força, m
 
 ---
 
-*Academia Pedagógica | Eixo II - Sociologia*
+*Acadia Pedagógica | Eixo II - Sociologia*
 *Professor Felipe de Luca*
